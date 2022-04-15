@@ -1,0 +1,19 @@
+{
+    "name": "Two Heads - Pink Floyd",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "7Jmyq4DJKozaB5pSB9crWignjKVEsUxvy5dYBwRkBmU9",
+          "share": 100
+        }
+      ]
+    }
+  }

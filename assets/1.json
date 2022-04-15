@@ -1,0 +1,19 @@
+{
+    "name": "Pulse - Pink Floyd",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "7Jmyq4DJKozaB5pSB9crWignjKVEsUxvy5dYBwRkBmU9",
+          "share": 100
+        }
+      ]
+    }
+  }

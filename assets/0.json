@@ -1,0 +1,19 @@
+{
+    "name": "Time - Pink Floyd",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "7Jmyq4DJKozaB5pSB9crWignjKVEsUxvy5dYBwRkBmU9",
+          "share": 100
+        }
+      ]
+    }
+  }
